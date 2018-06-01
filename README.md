@@ -1,3 +1,2 @@
 # Machine-learning
-Machine learning alogorithms practise
-Machine learning concepts and practise
+Machine learning alogorithms and concepts 
